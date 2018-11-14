@@ -1,0 +1,5 @@
+pymongo==3.4.0
+requests==2.18.2
+jira==1.0.10
+spacy
+openpyxl==2.4.9
